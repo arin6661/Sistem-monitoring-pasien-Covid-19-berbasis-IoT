@@ -7,5 +7,5 @@ Schemaatic:
 Tammpilan fisik smartband
 ![IMG_20221026_204037.jpg]( {https://github.com/arinugroho55/Dokumentasi/blob/main/IMG_20221026_204037.jpg} )
 
-![IMG_20221026_204425.jpg]( {https://github.com/arinugroho55/Dokumentasi/blob/main/IMG_20221026_204425.jpg} )
+![IMG_20221026_204425.jpg]( {https://user-images.githubusercontent.com/105727801/214963507-3a0b043e-9fd6-48d2-9967-4eafcac65443.jpg} )
 
